@@ -1,2 +1,2 @@
-# Header 1
-This is a blank site
+# If content is king 
+Where is the content............
